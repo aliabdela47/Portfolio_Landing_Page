@@ -8,6 +8,6 @@
 }
 
 a:active {
-  background: red;
+  background: var(--bs-orange);
 }
 
